@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Niconne';
+    src: url(../fonts/niconne/Niconne-Regular.ttf);
+}
+
+header table {
+    width: 100%;
+}
+
+header td {
+    background-color: yellow;
+    vertical-align: middle;
+}
+
+.logo {
+    font: bold 40px Niconne;
+    letter-spacing: 2px;
+    text-indent: 10px;
+    width: 210px;
+    min-width: 210px;
+}
